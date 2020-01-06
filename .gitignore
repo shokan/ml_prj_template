@@ -1,0 +1,7 @@
+input/
+models/
+
+*.csv
+*.pkl
+*.pth
+
